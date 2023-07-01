@@ -1,13 +1,13 @@
 # Nicholas A. Johnson (Nick) 🌱
 ### john7932@ms🎹u.edu
 -----------
-## Reasearch Interests:
+## Reasearch Interests
 - Omics
 - Evolution
 - Plant biology
 - Computational biology
 
-## Hobbies:
+## Hobbies
 - Hiking 🥾
 - Traveling 🌎
 - Camping 🏕️

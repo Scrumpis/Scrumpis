@@ -1,5 +1,5 @@
 # Nicholas A. Johnson (Nick) 🌱
-### john7932@ms🎹u.edu
+### john7932@msu.edu
 -----------
 ## Reasearch Interests
 - Omics

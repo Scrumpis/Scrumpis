@@ -3,7 +3,7 @@
 *Patterson Lab*  
 john7932@msu.edu
 
-## Reasearch Interests
+## Research Interests
 - Omics
 - Evolution
 - Plant biology

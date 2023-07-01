@@ -1,5 +1,7 @@
 # Nicholas A. Johnson (Nick) 🌱
-### john7932@msu.edu
+PhD Student at Michigan State University  
+Patterson Lab  
+john7932@msu.edu
 -----------
 ## Reasearch Interests
 - Omics

@@ -1,5 +1,5 @@
 # Nicholas A. Johnson (Nick) 🌱
-*PhD Student at Michigan State University*  
+*PhD Candidate at Michigan State University*  
 *Patterson Lab*  
 *ORCID: [0000-0001-7272-6474](https://orcid.org/0000-0001-7272-6474)*  
 *john7932@msu.edu*

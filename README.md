@@ -8,7 +8,7 @@ john7932@msu.edu
 - Omics
 - Evolution
 - Plant biology
-- Computational biology
+- Bioinformatics
 
 ## Hobbies
 - Hiking 🥾

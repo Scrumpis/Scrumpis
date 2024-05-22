@@ -1,7 +1,6 @@
 # Nicholas A. Johnson (Nick) 🌱
 *PhD Candidate of Genomics and Evolution at Michigan State University*  
-[Patterson Lab](https://www.thepattersonplantlab.com/) 
-john7932@msu.edu
+[Patterson Lab](https://www.thepattersonplantlab.com/)
 
 ## Research Interests
 - Omics

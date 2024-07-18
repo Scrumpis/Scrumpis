@@ -4,7 +4,7 @@ Lab: [Patterson Lab](https://www.thepattersonplantlab.com/)
 Contact: john7932@msu.edu
 
 ## Research Interests
-- Omics
+- Genomics
 - Evolution
 - Plant biology
 - Bioinformatics

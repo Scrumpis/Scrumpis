@@ -9,8 +9,7 @@ john7932@msu.edu
   
   
   
-#### Additional Websites:
-- [DockerHub](https://hub.docker.com/u/scrumpis)
+#### Additional Websites: [DockerHub](https://hub.docker.com/u/scrumpis)
 
 <!---
 Scrumpis/Scrumpis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

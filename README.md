@@ -1,5 +1,5 @@
 # Nicholas A. Johnson (Nick) 🌱
-*Researcher of Plant Genomics and Evolution at Michigan State University*  
+*Computational Plant Biologist at Michigan State University*  
 [Patterson Lab](https://www.thepattersonplantlab.com/)  
 john7932@msu.edu  
   

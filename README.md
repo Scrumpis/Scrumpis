@@ -1,5 +1,5 @@
 # Nicholas A. Johnson (Nick) 🌱
-*Computational Plant Biologist*  
+**Computational Plant Biologist**  
 *Postdoctoral Associate at Cornell University*  
 [Buckler-Romay Lab](https://www.maizegenetics.net/)  
 naj49@cornell.edu  
